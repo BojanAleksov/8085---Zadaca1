@@ -14,9 +14,9 @@
             F00Ah <- Data*7
 
 
-![Screenshot (1)] (https://github.com/BojanAleksov/8085---Zadaca1/blob/main/Slika%202%20(Zadaca1).png)
+![Screenshot (1)](https://github.com/BojanAleksov/8085---Zadaca1/blob/main/Slika%202%20(Zadaca1).png)
 
-![Screenshot (2)] (https://github.com/BojanAleksov/8085---Zadaca1/blob/main/Slika%202%20(Zadaca1).png)
+![Screenshot (2)](https://github.com/BojanAleksov/8085---Zadaca1/blob/main/Slika%202%20(Zadaca1).png)
  
 
 **Develop by:**
