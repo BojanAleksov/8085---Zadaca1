@@ -19,7 +19,7 @@
 ![Screenshot (2)](https://github.com/BojanAleksov/8085---Zadaca1/blob/main/Slika%202%20(Zadaca1).png)
  
 
-**Develop by:**
+**Developed by:**
 
 [Bojan Aleksov](https://github.com/BojanAleksov)
 
